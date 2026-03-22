@@ -29,7 +29,7 @@ gem "solid_queue"
 gem "solid_cable"
 
 gem "selenium-webdriver"
-gem "selenium-devtools", "= 0.143.0"
+gem "selenium-devtools", "0.145.0"
 
 # Reduces boot times through caching; required in config/boot.rb
 gem "bootsnap", require: false
